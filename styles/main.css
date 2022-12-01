@@ -1,0 +1,21 @@
+.bookings {
+    padding: 0px 20px;
+
+    /* border: 2px solid blueviolet; */
+}
+
+.details {
+    display: flex;
+    justify-content: space-around;
+    /* border: 2px solid burlywood; */
+}
+
+.details-column-list {
+    flex-basis: 24%;
+    height: 200px;
+    padding: 5px 20px;
+    
+
+
+    border: 2px dotted rgb(219, 172, 69);
+}
